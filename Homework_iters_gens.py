@@ -2,7 +2,7 @@ from Homework_decorator import logger
 NESTED_LIST = [['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]]
 
 
-#generators
+##generators
 
 @logger('E:\Учеба\Python proffwork\Hw5 decorators')
 def flat_generator_var1(nested_list: list):
